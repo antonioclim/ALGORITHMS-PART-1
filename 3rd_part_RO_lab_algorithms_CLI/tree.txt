@@ -1,0 +1,44 @@
+Folder PATH listing for volume DOSE
+Volume serial number is EA1E-A130
+E:.
+|   README.md
+|   test_all.sh
+|   test_all_with_scoring.sh
+|   tree.txt
+|   
++---bash
+|       ex1_suma_rec.sh
+|       ex2_reverse.sh
+|       ex3_putere.sh
+|       ex4_gcd.sh
+|       ex5_grid_paths.sh
+|       ex6_climb_stairs.sh
+|       ex7_suma_cifre.sh
+|       ex8_serie_recurenta.sh
+|       ex9_suma_compara.sh
+|       ex10_suma_cifre_transformare.sh
+|       
++---c
+|       ex1_suma_rec.c
+|       ex2_reverse.c
+|       ex3_putere.c
+|       ex4_gcd.c
+|       ex5_grid_paths.c
+|       ex6_climb_stairs.c
+|       ex7_suma_cifre.c
+|       ex8_serie_recurenta.c
+|       ex9_suma_compara.c
+|       ex10_suma_cifre_transformare.c
+|       
+\---python
+        ex1_suma_rec.py
+        ex2_reverse.py
+        ex3_putere.py
+        ex4_gcd.py
+        ex5_grid_paths.py
+        ex6_climb_stairs.py
+        ex7_suma_cifre.py
+        ex8_serie_recurenta.py
+        ex9_suma_compara.py
+        ex10_suma_cifre_transformare.py
+        
